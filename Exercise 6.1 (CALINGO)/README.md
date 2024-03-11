@@ -7,5 +7,7 @@ https://www.kaggle.com/datasets/mohanedalsuwaigh/features-and-price-of-computer-
 
 Data Analysis:
 -> Identifying the total number of parts depending on their category
+
 -> Creating a data frames for each category
+
 -> Getting the amount of each parts category
