@@ -6,6 +6,7 @@ Dataset used:
 https://www.kaggle.com/datasets/mohanedalsuwaigh/features-and-price-of-computer-components
 
 Data Analysis:
+
 -> Identifying the total number of parts depending on their category
 
 -> Creating a data frames for each category
