@@ -16,4 +16,14 @@ Hobbies: Listening to Music 🎵
          and many more! 🐔
 
 
+# You can reach me at:
+
+![icons8-facebook-24](https://github.com/ChristianLeiCalingo/CPE311_CALINGO_REPOSITORY/assets/157345687/b49a47a7-eb0e-4ff3-bd26-784420fdfa0e) : https://www.facebook.com/mamamayangwalangambagsalipunan
+
+![icons8-instagram-24](https://github.com/ChristianLeiCalingo/CPE311_CALINGO_REPOSITORY/assets/157345687/fc27904a-d51f-44c8-b33c-2d71a85ca1c6) : https://www.instagram.com/leileileileileeeeeei/
+
+![icons8-gmail-24](https://github.com/ChristianLeiCalingo/CPE311_CALINGO_REPOSITORY/assets/157345687/c76734e2-4e35-489d-8382-61393d9694ce) : lei0210lei@gmail.com
+
+![aiahtot](https://github.com/ChristianLeiCalingo/CPE311_CALINGO_REPOSITORY/assets/157345687/1f272482-668e-47dd-b183-2d6510b27c8f)
+
 
