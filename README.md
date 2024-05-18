@@ -15,6 +15,7 @@ Hobbies: Listening to Music 🎵
          Watching 📺
          and many more! 🐔
 
+![datasci](https://github.com/ChristianLeiCalingo/CPE311_CALINGO_REPOSITORY/assets/157345687/e80376b3-e9c8-47cb-891d-b564f0cf781a)
 
 # You can reach me at:
 
